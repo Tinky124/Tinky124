@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Tinky124/Tinky124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Discord server]: discord.gg/dezUs76AuK
--->
