@@ -4,7 +4,7 @@
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tinky124&show_icons=true&theme=radical"/>
 <!-- Most Used Languages -->  
-<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinky124&layout=compact"/>  
+<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinky124&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&&langs_count=8&theme=react"/>  
 </p>
 
 **Tinky124/Tinky124** is a ✨ _special_ ✨.
